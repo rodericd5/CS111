@@ -1,2 +1,2 @@
 # CS111
-Repository for UCSB course CS111 using MATLAB
+This repo holds my solution and write up to the cs111 final (cs111_final.pdf)
